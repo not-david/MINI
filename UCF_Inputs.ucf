@@ -1,0 +1,24 @@
+net "DP" LOC=N13  		//7 segment display - segment and pin
+net "A"  LOC=L14
+net "B"  LOC=H12
+net "C"  LOC=N14
+net "D"  LOC=N11
+net "E"  LOC=P12
+net "F"  LOC=L13
+net "G"  LOC=M12
+
+net "Dig0"  LOC=F12		//4 digit display - Dig0 is the rightmost digit
+net "Dig1"  LOC=J12
+net "Dig2"  LOC=M13
+net "Dig3"  LOC=K14
+
+net "BTN0"  LOC=G12     //Inputs
+net "BTN1"  LOC=C11	   //BTN0 is the addition
+net "SW0"   LOC=P11		//BTN1 is amnesia 
+net "SW1"   LOC=L3		//SW0-7 8bit input
+net "SW2"   LOC=K3
+net "SW3"   LOC=B4
+net "SW4"   LOC=G3
+net "SW5"   LOC=F3
+net "SW6"   LOC=E2
+net "SW7"   LOC=N3
